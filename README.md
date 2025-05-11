@@ -79,5 +79,8 @@ Open http://localhost:3000 in two different tabs or browsers.
 
 Type a message in one tab and it will appear instantly in the other.
 
+# *Output*
+
+![Image](https://github.com/user-attachments/assets/b7d25b6e-eafd-4b00-b2df-e06ad56b79bc)
 
 
