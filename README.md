@@ -27,7 +27,6 @@ This project is a **real-time chat application** built as part of the **CODTECH 
 **Backend (Node.js)**
 - Express.js
 - Socket.IO
-- CORS
 
 ---
 
