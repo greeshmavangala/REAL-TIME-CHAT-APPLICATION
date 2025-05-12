@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH
 
-#  REAL-TIME CHAT APP(CODETECH UNTERNSHIP=TASK1)
+#  REAL-TIME CHAT APP(CODETECH (INTERNSHIP-TASK1)
 
 This project is a **real-time chat application** built as part of the **CODTECH MERN Stack Internship (Task 1)**. It allows users to send and receive messages instantly using **Socket.IO**, **Node.js**, and **React**.
 
